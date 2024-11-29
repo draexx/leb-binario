@@ -3,6 +3,7 @@
 # Proyecto de LEDs Binarios
 
 Este proyecto utiliza un Arduino para mostrar los números binarios del 1 al 15 utilizando LEDs.
+
 Puedes ver el video en el siguiente enlace [Youtube](https://youtu.be/IN44FG92Ays).
 
 ## Descripción
