@@ -1,5 +1,3 @@
-Claro, aquí tienes un README en formato Markdown con la explicación del código:
-
 ---
 
 # Proyecto de LEDs Binarios
@@ -11,6 +9,8 @@ Este proyecto utiliza un Arduino para mostrar los números binarios del 1 al 15 
 El código está diseñado para encender y apagar LEDs conectados a un Arduino según los números binarios del 1 al 15. A continuación, se detalla cómo funciona el código.
 
 ## Código
+
+El código fuente completo está disponible en [GitHub](https://github.com/draexx/leb-binario/blob/main/led.ino).
 
 ```cpp
 // C++ code
