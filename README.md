@@ -3,6 +3,7 @@
 # Proyecto de LEDs Binarios
 
 Este proyecto utiliza un Arduino para mostrar los números binarios del 1 al 15 utilizando LEDs.
+Puedes ver el video en el siguiente enlace [Youtube](https://youtu.be/IN44FG92Ays).
 
 ## Descripción
 
@@ -14,7 +15,7 @@ El código fuente completo está disponible en [GitHub](https://github.com/draex
 
 ```cpp
 // C++ code
-int leds[] = {2, 3, 4, 5}; // Pines de los LEDs
+int leds[] = {5, 4, 3, 2}; // Pines de los LEDs
 int time_wait = 1000; // Tiempo de espera en milisegundos
 
 void setup() {
@@ -39,7 +40,7 @@ void loop() {
 Primero, definimos los pines a los que están conectados los LEDs y el tiempo de espera entre cada cambio de estado:
 
 ```cpp
-int leds[] = {2, 3, 4, 5}; // Pines de los LEDs
+int leds[] = {5, 4, 3, 2}; // Pines de los LEDs
 int time_wait = 1000; // Tiempo de espera en milisegundos
 ```
 
